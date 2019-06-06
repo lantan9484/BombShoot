@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 852e87da52e1042c28a59ce406f2e5d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TrashBoxPrefab: {fileID: 1631408352962446, guid: 80f51db576e4240ca892dba74f096dc9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
